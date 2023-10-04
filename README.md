@@ -3,8 +3,9 @@
 ## [Link to the Website](https://guileless-starlight-4ded00.netlify.app)
 
 # Overview
-<img width="771" alt="Screenshot 2023-10-04 at 10 52 49 PM" src="https://github.com/swarshah09/fsdTICTACTOEreactapp/assets/90791181/f626f77c-e71e-4675-b321-a21a489fab49">
-<img width="694" alt="Screenshot 2023-10-04 at 10 53 04 PM" src="https://github.com/swarshah09/fsdTICTACTOEreactapp/assets/90791181/e9ba8a6c-030f-43c2-8d64-b6bf15cd7676"><img width="670" alt="Screenshot 2023-10-04 at 10 53 26 PM" src="https://github.com/swarshah09/fsdTICTACTOEreactapp/assets/90791181/b7411b18-41b9-463f-9650-2190d85f7246">
+<img width="1680" alt="Screenshot 2023-10-04 at 10 56 09 PM" src="https://github.com/swarshah09/fsdTICTACTOEreactapp/assets/90791181/d8cc818b-5b02-4c39-ab2d-8ba0f469e4b8">
+<img width="1680" alt="Screenshot 2023-10-04 at 10 56 28 PM" src="https://github.com/swarshah09/fsdTICTACTOEreactapp/assets/90791181/2f7c1715-86eb-4634-91db-81ba63ccf2c9">
+<img width="1680" alt="Screenshot 2023-10-04 at 10 56 44 PM" src="https://github.com/swarshah09/fsdTICTACTOEreactapp/assets/90791181/86f94484-9e59-4bea-8c4d-5df5491eceaf">
 
 
 ## Getting Started with Create React App
